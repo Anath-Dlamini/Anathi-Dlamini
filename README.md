@@ -30,13 +30,12 @@ When I'm not working with data, I enjoy listening to music, watching football sp
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Data Modeling.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my Tiktok.]
+- **Project A:**[ Road Accident Data Analysis:** Analysed road accident data to identify casualty trends and factors such as vehicle speed limits. Cleaned and analysed the data using Excel and created visualisations and dashboards in Power BI.]  
+- **Project B:**[ Analysing sales data to identify sales trends, top-performing products, customer patterns, and overall business performance. Cleaning and analysing the data using Excel and creating visualisations and dashboards in Power BI.]
+- **Content Creation:** [Developing new tutorials on data visualization for my Tiktok.]
 
 ## 🌱 Currently Learning 
-
-- Data Cleaning and Transformation using Microsoft Excel and Power BI.
+- - **Road Accident Data Analysis:** Cleaning and analysing road accident data using Excel and Power BI to identify casualty trends and the impact of vehicle speed limits.
 - Relational Database Design and SQL for reporting and decision-making.
 
 ## 🛠️ Technical Skillset
